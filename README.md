@@ -17,3 +17,6 @@ An Ai-powered SEO Keyword clustering assistant
 - Categorise keywords by search intent
 - Identify keyword clusters
 - Generate SEO Content Recommendations
+
+##Experiment
+- Build an AI Agents to automate SEO keyword Research
