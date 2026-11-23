@@ -20,3 +20,11 @@ An Ai-powered SEO Keyword clustering assistant
 
 ##Experiment
 - Build an AI Agents to automate SEO keyword Research
+
+## AI Automation Experiment
+My goal is to build AI Agents that can:
+1. Analyse keyword datasets
+2. Identify search intent
+3. Group similar keywords
+4. Generate SEO Content Ideas
+5. Create automated seo reports
