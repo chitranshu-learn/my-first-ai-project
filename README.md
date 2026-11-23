@@ -1,15 +1,19 @@
 # my-first-ai-project
 ## About
-I am learning GitHub and AI Agent development
+This repository documents my journey into GitHub, Python, AI tools, and AI Agent Development
 
 ##My Learning Goals
 - Understand GitHub
-- Learn Python Basics
-- Explore AI tools
-- Build AI agents
-- Automate SEO/GEO Workflows
+- Learn Python Fundamentals
+- Explore AI tools and APIs
+- Understand AI agents
+- Build simple Automation Workflows
 
-##Future Project
-Build an AI-powered SEO keyword clustering tool
-Build an AI-powered GEO prompt research tool
-Build an AI-powered agent to identify the 3rd party sources for Link Building
+## My First Practical Project
+An Ai-powered SEO Keyword clustering assistant
+
+##Future Scope
+- Upload Keyword datasets
+- Categorise keywords by search intent
+- Identify keyword clusters
+- Generate SEO Content Recommendations
